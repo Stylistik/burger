@@ -1,5 +1,5 @@
 {
-  "name": "mysql-sequelize-heroku",
+  "name": "node_what_todo",
   "version": "1.0.0",
   "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
@@ -13,7 +13,7 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "mongoose": "^5.7.4",
-    "mysql": "^2.17.1"
+    "mysql": "^2.16.0"
   },
   "devDependencies": {}
 }
